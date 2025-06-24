@@ -21,8 +21,7 @@ A simple machine learning project to classify news articles as **Fake** or **Rea
 6. Model saved as `model.pkl`
 
 ## 📁 Files
-- `fake-news.ipynb` – Full code notebook
-- `model.pkl` – Saved model
+- `Real_fake-news.ipynb` – Full code notebook
 - `requirements.txt` – Install dependencies
 
 ## 🙏 Credit
